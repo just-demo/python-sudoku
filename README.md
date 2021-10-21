@@ -1,1 +1,3 @@
 # python-sudoku
+
+Sudoku solver
